@@ -80,6 +80,14 @@ main {
    margin-bottom: 2rem;
 }
 
+.hero a{ 
+  color: #EE59A7;
+}
+
+.hero a:hover{
+  color: #F475B7;
+}
+
 .hero h1 {
    font-size: 2.5rem;
    margin-bottom: 1rem;
